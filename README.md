@@ -5,4 +5,4 @@ DBMS project
 <ol>
   <li> <a href="https://github.com/chirantan24"> Chirantan Muliya</a></li>
   <li> <a href="https://github.com/4D17Y4"> Aditya Srivastav</a></li>
-  <li> <a href="https://github.com/bathlarachit"> Raciht Bathla</a></li>
+  <li> <a href="https://github.com/bathlarachit"> Rachit Bathla</a></li>
